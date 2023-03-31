@@ -9,7 +9,7 @@ const nextConfig = {
   },
   reactStrictMode: true,
   swcMinify: true,
-  basePath: '/kasm-registry/1.0',
+  basePath: '/1.0',
   trailingSlash: true,
   images: {
     unoptimized: true,
