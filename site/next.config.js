@@ -5,11 +5,11 @@ const nextConfig = {
     name: 'The Dev\'s Registry',
     description: 'Kasm Workspace images',
     icon: 'https://www.linuxserver.io/user/assets/typhoon/Asset%202.svg',
-    listUrl: 'https://thedev132.github.io/kasm-registry/',
+    listUrl: 'https://thedev132.github.io/kasm-registry/'
   },
   reactStrictMode: true,
   swcMinify: true,
-  basePath: '/1.0',
+  basePath: '/kasm-registry/1.0',
   trailingSlash: true,
   images: {
     unoptimized: true,
